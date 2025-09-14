@@ -1,63 +1,35 @@
-# 👋 Hi there, I'm Ruth Ondiere
+# 👋 Hi, I'm Ruth Ondiere
 
-🎯 **Aspiring Data Scientist | ML Enthusiast | Cloud Certified (AWS)**  
-📍 Based in Nairobi, Kenya | Open to remote opportunities (freelance or full-time)
+**Data Scientist & ML Engineer** with expertise in transforming data into actionable insights and building intelligent systems. My background in IoT and Electrical Engineering gives me a unique perspective on solving complex technical problems.
 
----
+## 🛠️ Technical Skills
 
-## 👩🏽‍💻 About Me
-
-I'm a passionate and detail-oriented professional with a background in **Electronics and Computer Engineering**, currently transitioning into the world of **Data Science and Artificial Intelligence**.
-
-I'm wrapping up a hands-on course in **DS & AI (ending May 2025)**, and actively building ML-powered projects that blend my real-world IoT experience with predictive modeling and data analytics.
-
----
-
-## 🧠 Skills
-
-- **Programming**: Python, SQL
-- **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Supervised & Unsupervised Learning
-- **Cloud Computing**: AWS (Certified Cloud Practitioner), Google Cloud
-- **Tools**: Jupyter Notebook, Git/GitHub, Streamlit
-- **Other**: IoT Systems, AV Tech, IT Support, AutoCAD
-
----
+- **Programming:** Python, SQL
+- **ML Frameworks:** Scikit-learn, XGBoost, TensorFlow
+- **Data Processing:** Pandas, NumPy, Spark
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Cloud & Tools:** AWS (S3, EC2), Git, Docker, Streamlit
+- **Specialties:** Time Series Analysis, NLP, Predictive Modeling, IoT Data
 
 ## 🚀 Featured Projects
 
-🌡️ [**IoT Predictive Maintenance ML Model**](https://github.com/BONAONDIERE/iot-failure-prediction-ml)  
-Using sensor data to predict machine failure — classification, visualization, and ML deployment.
+### [✈️ Airline Fare Prediction](https://github.com/BONAONDIERE/airline-fare-prediction)
+Machine learning model to forecast flight prices using historical data and market trends.
 
-📈 **Tractor Booking Demand Forecasting** *(coming soon)*  
-Forecasting regional tractor usage with time-series and regression analysis.
+### [🎓 KUCCPS Course Advisor Chatbot](https://github.com/BONAONDIERE/kuccps-chatbot)
+AI-powered chatbot using RAG to help students with university course selection.
 
-🤖 **Customer Support Chatbot with NLP** *(coming soon)*  
-NLP-based virtual assistant for customer query classification and auto-responses.
+### [🚌 EduRoutes: School Transportation Optimization](https://github.com/group-name/eduroutes)
+Data-driven platform using geospatial data to optimize school transportation routes.
 
----
+## 📈 GitHub Stats
 
-## 🌐 Connect With Me
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BONAONDIERE&show_icons=true&theme=radical)
 
-📫 Email: [bonareriondiere@gmail.com](mailto:bonareriondiere@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/ruth-ondiere-254009198](https://www.linkedin.com/in/ruth-ondiere-254009198)
+## 📫 Let's Connect
 
----
+- [🌐 Portfolio Website](https://bonaondiere.github.io)
+- [💼 LinkedIn](https://linkedin.com/in/ruth-ondiere-254009198)
+- [📧 Email](mailto:bonareriondiere@gmail.com)
 
-> 💬 “I’m always learning, always building, and always ready to solve real-world problems with data.”  
-## Hi there 👋
-
-<!--
-**BONAONDIERE/BONAONDIERE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Open to new opportunities in Data Science and Machine Learning!*
